@@ -14,5 +14,20 @@
       <path value="VCS Actions" />
       <option name="myInitialPosition" value="-1" />
     </group>
+    <group value="tasks.goto" is_action="true" action_type="1" position="11">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="tasks.close" is_action="true" action_type="1" position="12">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
+    <group value="tasks.switch" is_action="true" action_type="1" position="13">
+      <path value="root" />
+      <path value="Main Toolbar" />
+      <option name="myInitialPosition" value="-1" />
+    </group>
   </component>
 </application>
